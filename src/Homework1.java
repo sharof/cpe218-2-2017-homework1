@@ -21,6 +21,8 @@ public class Homework1 {
 		inorder(tree);
 		
 		System.out.print("="+Calculate(tree));
+
+		TreeDemo.main(args);
 		
 
 	}
